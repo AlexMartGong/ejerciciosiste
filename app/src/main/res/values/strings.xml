@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ejerciciosiste</string>
+    <string name="title">Manejo intenciones</string>
+    <string name="button1">Explixitas</string>
+    <string name="button2">Implicita</string>
+    <string name="ventana2">Teclado</string>
+    <string name="text" />
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btnBorraUno">B</string>
+    <string name="btnBorrarTodo">C</string>
+</resources>
